@@ -8,7 +8,7 @@
 <p style="color:orange"> злодій першої частини та першої половини другої частини гладес</p>
 <img src="https://i1.theportalwiki.net/img/thumb/7/79/GLaDOS_P2.png/325px-GLaDOS_P2.png"/> </main>
 <footer>
-<p>    +380 68 774 8864  </p>
+<p>    +380 68 774 8333</p>
 <p>    не мій номер :3   </p>
 </footer>
 </html>
